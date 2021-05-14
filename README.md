@@ -1,7 +1,7 @@
 # Bezoge Earth ($BEZOGE)
 
---
-Contract: 0xDC349913d53b446485E98b76800b6254f43Df695
+--<br>
+**Contract:** 0xDC349913d53b446485E98b76800b6254f43Df695
 
 Website: https://bezoge.com
 --
